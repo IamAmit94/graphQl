@@ -1,0 +1,9 @@
+// In order to run the the project
+run node app.js
+
+once the server is running on terminal 
+open the brower and look for the port in terminal
+
+localhost:8000/graphql
+to check the graphql in brower
+
